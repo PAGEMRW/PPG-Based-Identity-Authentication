@@ -1,4 +1,4 @@
-## ViewSiam: PPG-Based-Identity-Authentication
+## PPGSiam: PPG-Based-Identity-Authentication
 ---
 ## 项目简介
 本项目实现了一种基于光体积描记（PPG）信号的孪生神经网络身份认证系统。
